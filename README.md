@@ -17,7 +17,7 @@ Final-semester **Systems Engineering** student at UNAB, building my path as a so
 - <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="18"/> Co-founder of **Carpy** — software without headaches
 - Community Manager for the official Stumble Guys Discord community
 - <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="18"/> Former taekwondo athlete, now 100% focused on code
-- Video Games lover
+- Gamer at heart, always down for a good challenge
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
@@ -27,7 +27,7 @@ Final-semester **Systems Engineering** student at UNAB, building my path as a so
 
 ### What I'm working on
 
-- **Carpy** — software development consultancy, building custom apps end to end
+- **Carpy** — software development consultancy with a partner, building custom apps end to end
 - **Portfolio & purchasing management system** — internal platform for collectors, sales managers, district managers, cash auditors, and portfolio managers
 - **MoniKey** — personal finance PWA with Laravel + React Native, charts and recommendations
 
@@ -47,13 +47,8 @@ Final-semester **Systems Engineering** student at UNAB, building my path as a so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jorgev898&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=jorgev898&theme=tokyonight&hide_border=true" height="165"/>
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgev898&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
