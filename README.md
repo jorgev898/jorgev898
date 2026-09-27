@@ -17,7 +17,7 @@ Final-semester **Systems Engineering** student at UNAB, building my path as a so
 - <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="18"/> Co-founder of **Carpy** — software without headaches
 - Community Manager for the official Stumble Guys Discord community
 - <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="18"/> Former taekwondo athlete, now 100% focused on code
-- Gamer at heart, always down for a good challenge
+- Video Games lover
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
