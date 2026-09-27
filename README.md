@@ -27,7 +27,7 @@ Final-semester **Systems Engineering** student at UNAB, building my path as a so
 
 ### What I'm working on
 
-- **Carpy** — software development consultancy with a partner, building custom apps end to end
+- **Carpy** — software development consultancy, building custom apps end to end
 - **Portfolio & purchasing management system** — internal platform for collectors, sales managers, district managers, cash auditors, and portfolio managers
 - **MoniKey** — personal finance PWA with Laravel + React Native, charts and recommendations
 
