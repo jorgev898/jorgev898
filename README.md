@@ -14,7 +14,7 @@ Estudiante de últimos semestres de **Ingeniería de Sistemas** en la UNAB, forj
 
 - <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="18"/> Aprendiendo constantemente cosas nuevas que me parecen interesantes
 - Desarrollador full-stack en un sistema de gestión de cartera y compras para empresa del sector distribución
-- <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="18"/> Cofundador de **Carpy** — software sin sustos
+- <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="18"/> Cofundador de **Carpy** - software sin sustos
 - Community Manager de la comunidad oficial de Stumble Guys (Discord)
 - <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="18"/> Ex-taekwondista, ahora enfocado 100% en código
 - Gamer de corazón, siempre listo para un buen reto
