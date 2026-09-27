@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=250&section=header&text=¡Hola,%20soy%20Jorge!&fontSize=38&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineering%20Student&descSize=16&descColor=cbd5e1&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=250&section=header&text=¡Hola,%20soy%20Jorge!&fontSize=38&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Systems%20Engineering%20Student&descSize=16&descColor=e0f2fe&descAlignY=52" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+full-stack;Backend+%2B+Frontend+%2B+Mobile;Construyendo+CARPY;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 
@@ -63,9 +63,9 @@ Estudiante de últimos semestres de **Ingeniería de Sistemas** en la UNAB, forj
 <div align="center">
 
 [![Correo](https://img.shields.io/badge/Email-TU_CORREO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TU_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
-[![Discord](https://img.shields.io/badge/Discord-TU_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge_Vergel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-isaac-vergel-garc%C3%ADa-590247346/)
+[![Discord](https://img.shields.io/badge/Discord-yordyxplay-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yordyxplay)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=100&section=footer" width="100%"/>
